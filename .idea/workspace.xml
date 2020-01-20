@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/recursion/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/practice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/sum_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamicprogramming/fibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/quicksort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +32,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.practice">
-    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mergesort">
+    <configuration name="fibo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +41,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamicprogramming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamicprogramming/fibo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mergesort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,32 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/multiple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort/mergesort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +108,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/sum_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/practice2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort/quicksort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mergesort" />
+        <item itemvalue="Python.quicksort" />
+        <item itemvalue="Python.fibo" />
+        <item itemvalue="Python.practice2" />
         <item itemvalue="Python.practice" />
-        <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.sum_list" />
-        <item itemvalue="Python.multiple" />
-        <item itemvalue="Python.factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -181,33 +178,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="416" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259623493" />
-    <state width="1419" height="85" key="GridCell.Tab.0.bottom" timestamp="1579335625385">
+    <state width="1419" height="85" key="GridCell.Tab.0.bottom" timestamp="1579504864479">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579328048829" />
-    <state width="1419" height="85" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579335625385" />
-    <state width="1419" height="85" key="GridCell.Tab.0.center" timestamp="1579335625384">
+    <state width="1419" height="85" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579504864479" />
+    <state width="1419" height="85" key="GridCell.Tab.0.center" timestamp="1579504864478">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579328048827" />
-    <state width="1419" height="85" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579335625384" />
-    <state width="1419" height="85" key="GridCell.Tab.0.left" timestamp="1579335625384">
+    <state width="1419" height="85" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579504864478" />
+    <state width="1419" height="85" key="GridCell.Tab.0.left" timestamp="1579504864478">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579328048827" />
-    <state width="1419" height="85" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579335625384" />
-    <state width="1419" height="85" key="GridCell.Tab.0.right" timestamp="1579335625385">
+    <state width="1419" height="85" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579504864478" />
+    <state width="1419" height="85" key="GridCell.Tab.0.right" timestamp="1579504864478">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579328048828" />
-    <state width="1419" height="85" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579335625385" />
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1579327715957">
+    <state width="1419" height="85" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579504864478" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1579503216305">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579327715957" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579503216305" />
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1579418856744" />
     <state x="312" y="37" width="816" height="825" key="find.popup" timestamp="1579069662198">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="312" y="37" width="816" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1579069662198" />
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1579418975008">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1579418975008" />
   </component>
 </project>
