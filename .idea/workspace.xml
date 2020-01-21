@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/search/bfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumspanningtree/kruskal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shortestpath/dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shortestpath/dijkstrapath.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.bfs">
+  <component name="RunManager" selected="Python.kruskal">
     <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="binarysearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search/binarysearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search/dfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mergesort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shortestpath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort/mergesort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shortestpath/dijkstra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dijkstrapath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shortestpath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort/quicksort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shortestpath/dijkstrapath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequentialSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimumspanningtree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search/sequentialSearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minimumspanningtree/kruskal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.kruskal" />
+        <item itemvalue="Python.dijkstrapath" />
+        <item itemvalue="Python.dijkstra" />
+        <item itemvalue="Python.dfs" />
         <item itemvalue="Python.bfs" />
-        <item itemvalue="Python.sequentialSearch" />
-        <item itemvalue="Python.binarysearch" />
-        <item itemvalue="Python.mergesort" />
-        <item itemvalue="Python.quicksort" />
       </list>
     </recent_temporary>
   </component>
@@ -177,26 +178,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="416" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259623493" />
-    <state width="1419" height="76" key="GridCell.Tab.0.bottom" timestamp="1579526698686">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1419" height="93" key="GridCell.Tab.0.bottom" timestamp="1579619980147">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579526027430" />
-    <state width="1419" height="76" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579526698686" />
-    <state width="1419" height="76" key="GridCell.Tab.0.center" timestamp="1579526698685">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1419" height="93" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579619980147" />
+    <state width="1419" height="93" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579619679135" />
+    <state width="1419" height="93" key="GridCell.Tab.0.center" timestamp="1579619980146">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579526027429" />
-    <state width="1419" height="76" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579526698685" />
-    <state width="1419" height="76" key="GridCell.Tab.0.left" timestamp="1579526698684">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1419" height="93" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579619980146" />
+    <state width="1419" height="93" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579619679134" />
+    <state width="1419" height="93" key="GridCell.Tab.0.left" timestamp="1579619980145">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579526027429" />
-    <state width="1419" height="76" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579526698684" />
-    <state width="1419" height="76" key="GridCell.Tab.0.right" timestamp="1579526698685">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1419" height="93" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579619980145" />
+    <state width="1419" height="93" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579619679134" />
+    <state width="1419" height="93" key="GridCell.Tab.0.right" timestamp="1579619980147">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579526027430" />
-    <state width="1419" height="76" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579526698685" />
+    <state width="1419" height="93" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579619980147" />
+    <state width="1419" height="93" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579619679134" />
     <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1579532884025">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -206,9 +207,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="312" y="37" width="816" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1579069662198" />
-    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1579418975008">
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1579601559618">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1579418975008" />
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1579601559618" />
   </component>
 </project>
