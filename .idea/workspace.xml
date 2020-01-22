@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/minimumspanningtree/prim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minimumspanningtree/primV2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,26 +175,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="416" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259623493" />
-    <state width="1419" height="112" key="GridCell.Tab.0.bottom" timestamp="1579693049661">
+    <state width="1419" height="112" key="GridCell.Tab.0.bottom" timestamp="1579693118989">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1419" height="93" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579620052661" />
-    <state width="1419" height="112" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579693049661" />
-    <state width="1419" height="112" key="GridCell.Tab.0.center" timestamp="1579693049660">
+    <state width="1419" height="112" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579693118989" />
+    <state width="1419" height="112" key="GridCell.Tab.0.center" timestamp="1579693118988">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1419" height="93" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579620052659" />
-    <state width="1419" height="112" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579693049660" />
-    <state width="1419" height="112" key="GridCell.Tab.0.left" timestamp="1579693049660">
+    <state width="1419" height="112" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579693118988" />
+    <state width="1419" height="112" key="GridCell.Tab.0.left" timestamp="1579693118987">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1419" height="93" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579620052658" />
-    <state width="1419" height="112" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579693049660" />
-    <state width="1419" height="112" key="GridCell.Tab.0.right" timestamp="1579693049661">
+    <state width="1419" height="112" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579693118987" />
+    <state width="1419" height="112" key="GridCell.Tab.0.right" timestamp="1579693118988">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state width="1419" height="93" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579620052660" />
-    <state width="1419" height="112" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579693049661" />
+    <state width="1419" height="112" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579693118988" />
     <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1579690184669">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
