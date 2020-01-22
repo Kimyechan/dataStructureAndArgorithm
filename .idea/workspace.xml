@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/minimumspanningtree/kruskal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shortestpath/dijkstra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shortestpath/dijkstrapath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumspanningtree/prim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimumspanningtree/primV2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,49 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.kruskal">
-    <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search/bfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search/dfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.primV2">
     <configuration name="dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,13 +95,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimumspanningtree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minimumspanningtree/prim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="primV2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimumspanningtree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minimumspanningtree/primV2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.primV2" />
+        <item itemvalue="Python.prim" />
         <item itemvalue="Python.kruskal" />
         <item itemvalue="Python.dijkstrapath" />
         <item itemvalue="Python.dijkstra" />
-        <item itemvalue="Python.dfs" />
-        <item itemvalue="Python.bfs" />
       </list>
     </recent_temporary>
   </component>
@@ -178,30 +177,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="416" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259623493" />
-    <state width="1419" height="93" key="GridCell.Tab.0.bottom" timestamp="1579619980147">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="93" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579619980147" />
-    <state width="1419" height="93" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579619679135" />
-    <state width="1419" height="93" key="GridCell.Tab.0.center" timestamp="1579619980146">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="93" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579619980146" />
-    <state width="1419" height="93" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579619679134" />
-    <state width="1419" height="93" key="GridCell.Tab.0.left" timestamp="1579619980145">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="93" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579619980145" />
-    <state width="1419" height="93" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579619679134" />
-    <state width="1419" height="93" key="GridCell.Tab.0.right" timestamp="1579619980147">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="93" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579619980147" />
-    <state width="1419" height="93" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579619679134" />
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1579532884025">
+    <state width="1419" height="112" key="GridCell.Tab.0.bottom" timestamp="1579693049661">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579503216305" />
+    <state width="1419" height="93" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579620052661" />
+    <state width="1419" height="112" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579693049661" />
+    <state width="1419" height="112" key="GridCell.Tab.0.center" timestamp="1579693049660">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1419" height="93" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579620052659" />
+    <state width="1419" height="112" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579693049660" />
+    <state width="1419" height="112" key="GridCell.Tab.0.left" timestamp="1579693049660">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1419" height="93" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579620052658" />
+    <state width="1419" height="112" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579693049660" />
+    <state width="1419" height="112" key="GridCell.Tab.0.right" timestamp="1579693049661">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1419" height="93" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579620052660" />
+    <state width="1419" height="112" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579693049661" />
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1579690184669">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579690184669" />
     <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1579532884025" />
     <state x="312" y="37" width="816" height="825" key="find.popup" timestamp="1579069662198">
       <screen x="0" y="0" width="1440" height="900" />
