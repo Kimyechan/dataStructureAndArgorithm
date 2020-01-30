@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/블랙잭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/음계.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +31,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.primV2">
-    <configuration name="dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.블랙잭">
+    <configuration name="음계" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,11 +40,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shortestpath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shortestpath/dijkstra.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/음계.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +53,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dijkstrapath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="블랙잭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,32 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shortestpath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shortestpath/dijkstrapath.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimumspanningtree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minimumspanningtree/kruskal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/블랙잭.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,13 +116,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="queen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backtracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backtracking/queen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.블랙잭" />
+        <item itemvalue="Python.음계" />
+        <item itemvalue="Python.queen" />
         <item itemvalue="Python.primV2" />
         <item itemvalue="Python.prim" />
-        <item itemvalue="Python.kruskal" />
-        <item itemvalue="Python.dijkstrapath" />
-        <item itemvalue="Python.dijkstra" />
       </list>
     </recent_temporary>
   </component>
@@ -175,30 +177,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="416" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259623493" />
-    <state width="1419" height="112" key="GridCell.Tab.0.bottom" timestamp="1579693118989">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="1419" height="93" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579620052661" />
-    <state width="1419" height="112" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579693118989" />
-    <state width="1419" height="112" key="GridCell.Tab.0.center" timestamp="1579693118988">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="1419" height="93" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579620052659" />
-    <state width="1419" height="112" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579693118988" />
-    <state width="1419" height="112" key="GridCell.Tab.0.left" timestamp="1579693118987">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="1419" height="93" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579620052658" />
-    <state width="1419" height="112" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579693118987" />
-    <state width="1419" height="112" key="GridCell.Tab.0.right" timestamp="1579693118988">
-      <screen x="0" y="23" width="1440" height="832" />
-    </state>
-    <state width="1419" height="93" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579620052660" />
-    <state width="1419" height="112" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579693118988" />
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1579690184669">
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom" timestamp="1580388518796">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579690184669" />
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580388518796" />
+    <state width="1419" height="112" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579705836332" />
+    <state width="1419" height="339" key="GridCell.Tab.0.center" timestamp="1580388518793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580388518793" />
+    <state width="1419" height="112" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579705836331" />
+    <state width="1419" height="339" key="GridCell.Tab.0.left" timestamp="1580388518792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580388518792" />
+    <state width="1419" height="112" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579705836331" />
+    <state width="1419" height="339" key="GridCell.Tab.0.right" timestamp="1580388518795">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580388518795" />
+    <state width="1419" height="112" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579705836332" />
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1580383716083">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580383716083" />
     <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1579532884025" />
     <state x="312" y="37" width="816" height="825" key="find.popup" timestamp="1579069662198">
       <screen x="0" y="0" width="1440" height="900" />
