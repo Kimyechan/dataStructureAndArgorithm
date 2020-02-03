@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/argorithmBasic/블랙잭.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/argorithmBasic/음계.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/스택수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/키로거.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/프린터 큐.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queuePratice/PriorityQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queuePratice/PriorityQueue.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.블랙잭">
+  <component name="RunManager" selected="Python.PriorityQueue">
+    <configuration name="프린터 큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/프린터 큐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="음계" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,6 +76,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PriorityQueue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queuePratice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queuePratice/PriorityQueue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="키로거" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/키로거.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="스택수열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/스택수열.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="블랙잭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,48 +152,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/블랙잭.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimumspanningtree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minimumspanningtree/prim.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="primV2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimumspanningtree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minimumspanningtree/primV2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +183,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.블랙잭" />
+        <item itemvalue="Python.프린터 큐" />
+        <item itemvalue="Python.PriorityQueue" />
         <item itemvalue="Python.음계" />
         <item itemvalue="Python.queen" />
-        <item itemvalue="Python.primV2" />
-        <item itemvalue="Python.prim" />
       </list>
     </recent_temporary>
   </component>
@@ -177,38 +220,44 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="416" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259623493" />
-    <state width="1419" height="339" key="GridCell.Tab.0.bottom" timestamp="1580388518796">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom" timestamp="1580551062823">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580388518796" />
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580549048844" />
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1580551062823" />
     <state width="1419" height="112" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579705836332" />
-    <state width="1419" height="339" key="GridCell.Tab.0.center" timestamp="1580388518793">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="339" key="GridCell.Tab.0.center" timestamp="1580551062822">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580388518793" />
+    <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580549048843" />
+    <state width="1419" height="339" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1580551062822" />
     <state width="1419" height="112" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579705836331" />
-    <state width="1419" height="339" key="GridCell.Tab.0.left" timestamp="1580388518792">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="339" key="GridCell.Tab.0.left" timestamp="1580551062821">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580388518792" />
+    <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580549048842" />
+    <state width="1419" height="339" key="GridCell.Tab.0.left/0.23.1440.831@0.0.1440.854" timestamp="1580474556733" />
+    <state width="1419" height="339" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1580551062821" />
     <state width="1419" height="112" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579705836331" />
-    <state width="1419" height="339" key="GridCell.Tab.0.right" timestamp="1580388518795">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="339" key="GridCell.Tab.0.right" timestamp="1580551062823">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580388518795" />
+    <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580549048844" />
+    <state width="1419" height="339" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1580551062823" />
     <state width="1419" height="112" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579705836332" />
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1580383716083">
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1580713001860">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580383716083" />
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580713001860" />
     <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1579532884025" />
     <state x="312" y="37" width="816" height="825" key="find.popup" timestamp="1579069662198">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="312" y="37" width="816" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1579069662198" />
-    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1579601559618">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state x="385" y="169" width="670" height="732" key="search.everywhere.popup" timestamp="1580455093141">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="385" y="169" width="670" height="732" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580455093141" />
     <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1579601559618" />
   </component>
 </project>
