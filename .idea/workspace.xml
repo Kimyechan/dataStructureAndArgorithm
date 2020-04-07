@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/argorithmBasic/스택수열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/argorithmBasic/키로거.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/argorithmBasic/프린터 큐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/sha-256.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/수 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/친구 네트워크.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queuePratice/PriorityQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queuePratice/PriorityQueue.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,8 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.프린터 큐" />
         <item itemvalue="Python.PriorityQueue" />
+        <item itemvalue="Python.프린터 큐" />
         <item itemvalue="Python.음계" />
         <item itemvalue="Python.queen" />
       </list>
@@ -220,34 +219,39 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="416" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259623493" />
-    <state width="1419" height="339" key="GridCell.Tab.0.bottom" timestamp="1580551062823">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom" timestamp="1586250634874">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1586250634874" />
     <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580549048844" />
     <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1580551062823" />
     <state width="1419" height="112" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579705836332" />
-    <state width="1419" height="339" key="GridCell.Tab.0.center" timestamp="1580551062822">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1419" height="339" key="GridCell.Tab.0.center" timestamp="1586250634871">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1586250634871" />
     <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580549048843" />
     <state width="1419" height="339" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1580551062822" />
     <state width="1419" height="112" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579705836331" />
-    <state width="1419" height="339" key="GridCell.Tab.0.left" timestamp="1580551062821">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1419" height="339" key="GridCell.Tab.0.left" timestamp="1586250634869">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1586250634869" />
     <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580549048842" />
     <state width="1419" height="339" key="GridCell.Tab.0.left/0.23.1440.831@0.0.1440.854" timestamp="1580474556733" />
     <state width="1419" height="339" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1580551062821" />
     <state width="1419" height="112" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579705836331" />
-    <state width="1419" height="339" key="GridCell.Tab.0.right" timestamp="1580551062823">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1419" height="339" key="GridCell.Tab.0.right" timestamp="1586250634872">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1586250634872" />
     <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580549048844" />
     <state width="1419" height="339" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1580551062823" />
     <state width="1419" height="112" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1579705836332" />
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1580713001860">
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1586250407303">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1586250407303" />
     <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580713001860" />
     <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1579532884025" />
     <state x="312" y="37" width="816" height="825" key="find.popup" timestamp="1579069662198">
