@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/argorithmBasic/graphSearch/바이러스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/argorithmBasic/graphSearch/유기농 배추.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/argorithmBasic/graphSearch/효율적인 해킹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/graphSearch/거의 최단 경로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/graphSearch/우주신과의 교감.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/argorithmBasic/graphSearch/해킹.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.효율적인 해킹">
+  <component name="RunManager" selected="Python.우주신과의 교감">
     <configuration name="효율적인 해킹" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,6 +46,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/graphSearch/효율적인 해킹.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="우주신과의 교감" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/graphSearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/graphSearch/우주신과의 교감.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가장 높은 탑 쌓기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="거의 최단 경로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,11 +230,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/dynamicProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/graphSearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/dynamicProgramming/가장 높은 탑 쌓기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/graphSearch/거의 최단 경로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DFS와 BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="해킹" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,7 +276,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/graphSearch/DFS와 BFS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/graphSearch/해킹.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,11 +434,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.우주신과의 교감" />
+        <item itemvalue="Python.거의 최단 경로" />
+        <item itemvalue="Python.해킹" />
         <item itemvalue="Python.효율적인 해킹" />
-        <item itemvalue="Python.유기농 배추" />
         <item itemvalue="Python.숨바꼭질" />
-        <item itemvalue="Python.DFS와 BFS" />
-        <item itemvalue="Python.가장 높은 탑 쌓기" />
       </list>
     </recent_temporary>
   </component>
@@ -447,39 +468,39 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="339" key="GridCell.Tab.0.bottom" timestamp="1588241408066">
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom" timestamp="1588329987537">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1588241335299" />
-    <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588241408066" />
+    <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588329987537" />
     <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588087085849" />
     <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1587720736295" />
     <state width="1419" height="339" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1580551062823" />
     <state width="1419" height="112" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1579705836332" />
-    <state width="1419" height="339" key="GridCell.Tab.0.center" timestamp="1588241408063">
+    <state width="1419" height="339" key="GridCell.Tab.0.center" timestamp="1588329987536">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1588241335297" />
-    <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588241408063" />
+    <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588329987536" />
     <state width="1419" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588087085848" />
     <state width="1419" height="339" key="GridCell.Tab.0.center/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1587720736294" />
     <state width="1419" height="339" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1580551062822" />
     <state width="1419" height="112" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1579705836331" />
-    <state width="1419" height="339" key="GridCell.Tab.0.left" timestamp="1588241408062">
+    <state width="1419" height="339" key="GridCell.Tab.0.left" timestamp="1588329987535">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1588241335297" />
-    <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588241408062" />
+    <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588329987535" />
     <state width="1419" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588087085847" />
     <state width="1419" height="339" key="GridCell.Tab.0.left/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1587720736291" />
     <state width="1419" height="339" key="GridCell.Tab.0.left/0.23.1440.831@0.0.1440.854" timestamp="1580474556733" />
     <state width="1419" height="339" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1580551062821" />
     <state width="1419" height="112" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1579705836331" />
-    <state width="1419" height="339" key="GridCell.Tab.0.right" timestamp="1588241408065">
+    <state width="1419" height="339" key="GridCell.Tab.0.right" timestamp="1588329987536">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1588241335298" />
-    <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588241408065" />
+    <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588329987536" />
     <state width="1419" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588087085849" />
     <state width="1419" height="339" key="GridCell.Tab.0.right/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1587720736294" />
     <state width="1419" height="339" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1580551062823" />
@@ -504,11 +525,11 @@
     </state>
     <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1586780198023" />
     <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1587042938140" />
-    <state x="398" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1588237590757">
+    <state x="398" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1588313197841">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.853/-256.-1057.1920.1057@0.0.1440.853" timestamp="1588221553598" />
-    <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588237590757" />
+    <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1588313197841" />
     <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580713001860" />
     <state x="312" y="37" width="816" height="825" key="find.popup" timestamp="1587028300348">
       <screen x="0" y="0" width="1440" height="900" />
@@ -518,7 +539,6 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="169" width="670" height="732" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580455093141" />
-    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1579601559618" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
