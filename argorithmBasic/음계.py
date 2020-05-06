@@ -14,6 +14,8 @@ def scale(sound):
     else:
         return "mixed"
 
+
 sound = list(map(int, input().split()))
 print(scale(sound))
+
 
