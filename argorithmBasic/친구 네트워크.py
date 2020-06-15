@@ -6,6 +6,7 @@ def find(x):
         parent[x] = p
         return parent[x]
 
+
 def union(x, y):
     x = find(x)
     y = find(y)
@@ -13,6 +14,7 @@ def union(x, y):
     if x != y:
         parent[y] = x
         number[x] += number[y]
+
 
 test_case = int(input())
 
@@ -35,3 +37,15 @@ for _ in range(test_case):
         union(x, y)
 
         print(number[find(x)])
+
+
+
+
+
+
+
+
+
+
+
+

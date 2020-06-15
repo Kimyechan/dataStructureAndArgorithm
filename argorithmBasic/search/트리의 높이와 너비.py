@@ -55,3 +55,30 @@ for i in range(2, level_depth + 1):
         result_width = width
 
 print(result_level, result_width)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

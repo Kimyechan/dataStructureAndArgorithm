@@ -1,6 +1,37 @@
-n, m = map(int, input().split())
+# n, m = map(int, input().split())
+#
+# array = list()
+#
+# for _ in range(n):
+#     array.append(input())
+#
+# row = [0] * n
+# column = [0] * m
+#
+# for i in range(n):
+#     for j in range(m):
+#         if array[i][j] == 'X':
+#             row[i] = 1
+#             column[j] = 1
+#
+# rowCount = 0
+# columnCount = 0
+#
+# for i in range(n):
+#     if row[i] != 1:
+#         rowCount += 1
+#
+# for j in range(m):
+#     if column[j] != 1:
+#         columnCount += 1
+#
+# if rowCount >= columnCount:
+#     print(columnCount + rowCount - columnCount)
+# else:
+#     print(rowCount + columnCount - rowCount)
 
-array = list()
+n, m = map(int, input().split())
+array = []
 
 for _ in range(n):
     array.append(input())
@@ -14,18 +45,14 @@ for i in range(n):
             row[i] = 1
             column[j] = 1
 
-rowCount = 0
-columnCount = 0
-
+row_count = 0
 for i in range(n):
-    if row[i] != 1:
-        rowCount += 1
+    if row[i] == 0:
+        row_count += 1
 
+column_count = 0
 for j in range(m):
-    if column[j] != 1:
-        columnCount += 1
+    if column[j] == 0:
+        column_count += 1
 
-if rowCount >= columnCount:
-    print(columnCount + rowCount - columnCount)
-else:
-    print(rowCount + columnCount - rowCount)
+print(max(row_count, column_count))

@@ -16,7 +16,6 @@ print(canSee)
 
 
 trophies.reverse()
-
 high = 0
 canSee = 0
 
