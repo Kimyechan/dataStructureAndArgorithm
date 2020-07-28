@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithmPractice/MooyoMooyo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmPractice/꽃길.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmPractice/늑대와 양.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmPractice/2048(Easy).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.MooyoMooyo">
+  <component name="RunManager" selected="Python.2048(Easy)">
     <configuration name="단어 뒤집기2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,7 +52,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="주사위 네개" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="나이순 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/나이순 정렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="늑대와 양" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +85,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/주사위 네개.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/늑대와 양.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="공유기 설치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/search/공유기 설치.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="주사위 세개" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/주사위 세개.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,48 +262,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="나이순 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/나이순 정렬.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="늑대와 양" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/늑대와 양.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="등수 매기기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,48 +275,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/greedy/등수 매기기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="공유기 설치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/search/공유기 설치.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="주사위 세개" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/주사위 세개.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mixing Milk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2048(Easy)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,7 +316,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/Mixing Milk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/2048(Easy).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,48 +359,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/Z.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="행복" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/행복.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="새" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/search/새.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -684,13 +619,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="행복" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/행복.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="새" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/search/새.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2048(Easy)" />
         <item itemvalue="Python.MooyoMooyo" />
         <item itemvalue="Python.꽃길" />
         <item itemvalue="Python.단어 뒤집기2" />
         <item itemvalue="Python.Z" />
-        <item itemvalue="Python.Mixing Milk" />
       </list>
     </recent_temporary>
   </component>
@@ -720,7 +697,7 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1079" height="342" key="GridCell.Tab.0.bottom" timestamp="1594652760306">
+    <state width="708" height="336" key="GridCell.Tab.0.bottom" timestamp="1595937391992">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="708" height="383" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1593336919703" />
@@ -728,11 +705,11 @@
     <state width="709" height="384" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1593010192079" />
     <state width="948" height="373" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539564" />
     <state width="709" height="384" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593009361378" />
-    <state width="1079" height="342" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594652760306" />
+    <state width="708" height="336" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595937391992" />
     <state width="1419" height="266" key="GridCell.Tab.0.bottom/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238367" />
     <state width="708" height="337" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1593833307058" />
     <state width="948" height="373" key="GridCell.Tab.0.bottom/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097590" />
-    <state width="1079" height="342" key="GridCell.Tab.0.center" timestamp="1594652760302">
+    <state width="708" height="336" key="GridCell.Tab.0.center" timestamp="1595937391991">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="708" height="383" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1593336919702" />
@@ -740,11 +717,11 @@
     <state width="709" height="384" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1593010192076" />
     <state width="948" height="373" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539562" />
     <state width="709" height="384" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593009361376" />
-    <state width="1079" height="342" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594652760302" />
+    <state width="708" height="336" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595937391991" />
     <state width="1419" height="266" key="GridCell.Tab.0.center/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238366" />
     <state width="708" height="337" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1593833307057" />
     <state width="948" height="373" key="GridCell.Tab.0.center/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097589" />
-    <state width="1079" height="342" key="GridCell.Tab.0.left" timestamp="1594652760301">
+    <state width="708" height="336" key="GridCell.Tab.0.left" timestamp="1595937391990">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="708" height="383" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1593336919701" />
@@ -752,11 +729,11 @@
     <state width="709" height="384" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1593010192073" />
     <state width="948" height="373" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539561" />
     <state width="709" height="384" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593009361375" />
-    <state width="1079" height="342" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594652760301" />
+    <state width="708" height="336" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595937391990" />
     <state width="1419" height="266" key="GridCell.Tab.0.left/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238366" />
     <state width="708" height="337" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1593833307056" />
     <state width="948" height="373" key="GridCell.Tab.0.left/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097588" />
-    <state width="1079" height="342" key="GridCell.Tab.0.right" timestamp="1594652760305">
+    <state width="708" height="336" key="GridCell.Tab.0.right" timestamp="1595937391991">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="708" height="383" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1593336919702" />
@@ -764,7 +741,7 @@
     <state width="709" height="384" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1593010192078" />
     <state width="948" height="373" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539563" />
     <state width="709" height="384" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593009361377" />
-    <state width="1079" height="342" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594652760305" />
+    <state width="708" height="336" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595937391991" />
     <state width="1419" height="266" key="GridCell.Tab.0.right/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238367" />
     <state width="708" height="337" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1593833307058" />
     <state width="948" height="373" key="GridCell.Tab.0.right/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097589" />
@@ -816,13 +793,14 @@
     <state width="1419" height="266" key="GridCell.Tab.1.right/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238368" />
     <state width="1085" height="301" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1593516492991" />
     <state width="948" height="373" key="GridCell.Tab.1.right/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097592" />
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1595832465313">
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1595934887674">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.853/-256.-1057.1920.1057@0.0.1440.853" timestamp="1588221553598" />
     <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1592111325714" />
     <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593060539546" />
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1595832465313" />
+    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1595934887674" />
+    <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1595905667330" />
     <state x="398" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1593846284234" />
     <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592797937137" />
     <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1593589315004" />
