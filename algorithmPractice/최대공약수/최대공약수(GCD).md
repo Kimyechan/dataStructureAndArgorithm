@@ -32,5 +32,4 @@
     # 방법 3 : math의 gcd 사용하기
     import math
     math.gcd(1,2)
-
 ```
