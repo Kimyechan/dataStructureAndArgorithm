@@ -5,53 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithmPractice/소수체크와 소인수 분해/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithmPractice/최대공약수/최대공약수(GCD).md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmPractice/최대공약수/최대공약수(GCD).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/array/exercise1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/array/exercise2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backtracking/queen.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/backtracking/queen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamicprogramming/fibo.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/dynamicprogramming/fibo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashTable/practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/hashTable/practice1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashTable/practice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/hashTable/practice2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashTable/practice3.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/hashTable/practice3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashTable/practice4.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/hashTable/practice4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/heap/heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/doublelinkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/linkedList/doublelinkedlist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/doublelinkedlistInsert.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/linkedList/doublelinkedlistInsert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/linkedList/insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/linkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/linkedList/linkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/linkedlistAdd.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/linkedList/linkedlistAdd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/linkedlistDelete.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/linkedList/linkedlistDelete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimumspanningtree/kruskal.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/minimumspanningtree/kruskal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimumspanningtree/prim.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/minimumspanningtree/prim.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimumspanningtree/primV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/minimumspanningtree/primV2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queuePratice/LifoQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/queuePratice/LifoQueue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queuePratice/PriorityQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/queuePratice/PriorityQueue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queuePratice/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/queuePratice/exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queuePratice/queuetest.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/queuePratice/queuetest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/recursion/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/recursion/multiple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/recursion/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/recursion/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/practice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/recursion/practice2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/sum_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/recursion/sum_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/search/bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/binarysearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/search/binarysearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/search/dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/sequentialSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/search/sequentialSearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shortestpath/dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/shortestpath/dijkstra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shortestpath/dijkstrapath.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/shortestpath/dijkstrapath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/bubblesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/sort/bubblesort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/insertionsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/sort/insertionsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/mergesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/sort/mergesort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/sort/quicksort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/selectionsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/sort/selectionsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stackPractice/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/stackPractice/exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stackPractice/pushPop.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/stackPractice/pushPop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stackPractice/recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/stackPractice/recursive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/tree/practice1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/tree/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/argorithmBasic/backtracking/암호 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/argorithmBasic/backtracking/암호 만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concept/sort/bubblesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/sort/bubblesort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +41,28 @@
       <recent name="$PROJECT_DIR$/algorithmPractice/최대공약수" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.근우의 다이어리 꾸미기">
+  <component name="RunManager" selected="Python.거의 최단 경로">
+    <configuration name="근우의 다이어리 꾸미기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/근우의 다이어리 꾸미기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="파일 합치기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +76,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/파일 합치기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="암호 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/backtracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/backtracking/암호 만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="근우의 다이어리 꾸미기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="거의 최단 경로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/graphSearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/근우의 다이어리 꾸미기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/graphSearch/거의 최단 경로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,6 +286,132 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/저울.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="거스름돈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/greedy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/greedy/거스름돈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="알파벳" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/backtracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/backtracking/알파벳.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="기타리스트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/dynamicProgramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/dynamicProgramming/기타리스트.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="바이러스" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/graphSearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/graphSearch/바이러스.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="행렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/행렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="행복" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/행복.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -464,141 +588,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="거스름돈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/greedy/거스름돈.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="알파벳" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/backtracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/backtracking/알파벳.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="기타리스트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/dynamicProgramming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/dynamicProgramming/기타리스트.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="바이러스" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argorithmBasic/graphSearch" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argorithmBasic/graphSearch/바이러스.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="행렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/행렬.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="행복" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/행복.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.근우의 다이어리 꾸미기" />
+      <item itemvalue="Python.거의 최단 경로" />
       <item itemvalue="Python.파일 합치기" />
       <item itemvalue="Python.저울" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.저울" />
-        <item itemvalue="Python.근우의 다이어리 꾸미기" />
         <item itemvalue="Python.파일 합치기" />
       </list>
     </recent_temporary>
@@ -629,161 +626,16 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="102" key="#Inspections" timestamp="1596683893076">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="229" y="69" key="SettingsEditor" timestamp="1614779220195">
+      <screen x="0" y="25" width="1440" height="818" />
     </state>
-    <state x="320" y="102" key="#Inspections/0.23.1440.828@0.23.1440.828" timestamp="1596683893076" />
-    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596684320962">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="229" y="69" key="SettingsEditor/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614779220195" />
+    <state x="0" y="25" width="1440" height="818" key="com.intellij.ide.util.TipDialog" timestamp="1614778472416">
+      <screen x="0" y="25" width="1440" height="818" />
     </state>
-    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1596684320962" />
-    <state x="507" y="199" key="FileChooserDialogImpl" timestamp="1596684217504">
-      <screen x="0" y="23" width="1440" height="828" />
-    </state>
-    <state x="507" y="199" key="FileChooserDialogImpl/0.23.1440.828@0.23.1440.828" timestamp="1596684217504" />
-    <state width="1419" height="264" key="GridCell.Tab.0.bottom" timestamp="1598518090382">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="708" height="383" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1593336919703" />
-    <state width="708" height="383" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.23.1920.1057@0.0.1440.900" timestamp="1593237294659" />
-    <state width="709" height="384" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1593010192079" />
-    <state width="948" height="373" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539564" />
-    <state width="709" height="384" key="GridCell.Tab.0.bottom/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593009361378" />
-    <state width="1419" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900/-526.-1440.2560.1440@0.0.1440.900" timestamp="1597403924051" />
-    <state width="1419" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598507024967" />
-    <state width="1419" height="264" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1598518090382" />
-    <state width="1419" height="258" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1596684442166" />
-    <state width="1419" height="295" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1596212223243" />
-    <state width="1419" height="266" key="GridCell.Tab.0.bottom/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238367" />
-    <state width="1419" height="264" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1598513551671" />
-    <state width="948" height="373" key="GridCell.Tab.0.bottom/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097590" />
-    <state width="1419" height="264" key="GridCell.Tab.0.center" timestamp="1598518090381">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="708" height="383" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1593336919702" />
-    <state width="708" height="383" key="GridCell.Tab.0.center/0.0.1440.900/-1920.23.1920.1057@0.0.1440.900" timestamp="1593237294656" />
-    <state width="709" height="384" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1593010192076" />
-    <state width="948" height="373" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539562" />
-    <state width="709" height="384" key="GridCell.Tab.0.center/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593009361376" />
-    <state width="1419" height="294" key="GridCell.Tab.0.center/0.0.1440.900/-526.-1440.2560.1440@0.0.1440.900" timestamp="1597403924050" />
-    <state width="1419" height="294" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598507024966" />
-    <state width="1419" height="264" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1598518090381" />
-    <state width="1419" height="258" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1596684442165" />
-    <state width="1419" height="295" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1596212223242" />
-    <state width="1419" height="266" key="GridCell.Tab.0.center/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238366" />
-    <state width="1419" height="264" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1598513551671" />
-    <state width="948" height="373" key="GridCell.Tab.0.center/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097589" />
-    <state width="1419" height="264" key="GridCell.Tab.0.left" timestamp="1598518090380">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="708" height="383" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1593336919701" />
-    <state width="708" height="383" key="GridCell.Tab.0.left/0.0.1440.900/-1920.23.1920.1057@0.0.1440.900" timestamp="1593237294655" />
-    <state width="709" height="384" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1593010192073" />
-    <state width="948" height="373" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539561" />
-    <state width="709" height="384" key="GridCell.Tab.0.left/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593009361375" />
-    <state width="1419" height="294" key="GridCell.Tab.0.left/0.0.1440.900/-526.-1440.2560.1440@0.0.1440.900" timestamp="1597403924049" />
-    <state width="1419" height="294" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598507024965" />
-    <state width="1419" height="264" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1598518090380" />
-    <state width="1419" height="258" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1596684442164" />
-    <state width="1419" height="295" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1596212223241" />
-    <state width="1419" height="266" key="GridCell.Tab.0.left/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238366" />
-    <state width="1419" height="264" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1598513551670" />
-    <state width="948" height="373" key="GridCell.Tab.0.left/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097588" />
-    <state width="1419" height="264" key="GridCell.Tab.0.right" timestamp="1598518090381">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state width="708" height="383" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1593336919702" />
-    <state width="708" height="383" key="GridCell.Tab.0.right/0.0.1440.900/-1920.23.1920.1057@0.0.1440.900" timestamp="1593237294658" />
-    <state width="709" height="384" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1057.1920.1057@0.0.1440.900" timestamp="1593010192078" />
-    <state width="948" height="373" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539563" />
-    <state width="709" height="384" key="GridCell.Tab.0.right/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593009361377" />
-    <state width="1419" height="294" key="GridCell.Tab.0.right/0.0.1440.900/-526.-1440.2560.1440@0.0.1440.900" timestamp="1597403924051" />
-    <state width="1419" height="294" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598507024967" />
-    <state width="1419" height="264" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1598518090381" />
-    <state width="1419" height="258" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1596684442165" />
-    <state width="1419" height="295" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1596212223243" />
-    <state width="1419" height="266" key="GridCell.Tab.0.right/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238367" />
-    <state width="1419" height="264" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1598513551671" />
-    <state width="948" height="373" key="GridCell.Tab.0.right/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097589" />
-    <state width="1419" height="340" key="GridCell.Tab.1.bottom" timestamp="1597924576522">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1592121531554" />
-    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.23.1920.1057@0.0.1440.900" timestamp="1592138897040" />
-    <state width="948" height="373" key="GridCell.Tab.1.bottom/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539567" />
-    <state width="709" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1592812361636" />
-    <state width="1419" height="340" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597924576522" />
-    <state width="1419" height="299" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1596424513478" />
-    <state width="1419" height="300" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1596211631725" />
-    <state width="1419" height="266" key="GridCell.Tab.1.bottom/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238369" />
-    <state width="1085" height="301" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1593516492991" />
-    <state width="948" height="373" key="GridCell.Tab.1.bottom/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097593" />
-    <state width="1419" height="340" key="GridCell.Tab.1.center" timestamp="1597924576521">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1592121531552" />
-    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-1920.23.1920.1057@0.0.1440.900" timestamp="1592138897039" />
-    <state width="948" height="373" key="GridCell.Tab.1.center/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539565" />
-    <state width="709" height="302" key="GridCell.Tab.1.center/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1592812361634" />
-    <state width="1419" height="340" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597924576521" />
-    <state width="1419" height="299" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1596424513477" />
-    <state width="1419" height="300" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1596211631724" />
-    <state width="1419" height="266" key="GridCell.Tab.1.center/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238368" />
-    <state width="1085" height="301" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1593516492990" />
-    <state width="948" height="373" key="GridCell.Tab.1.center/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097592" />
-    <state width="1419" height="340" key="GridCell.Tab.1.left" timestamp="1597924576521">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1592121531552" />
-    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-1920.23.1920.1057@0.0.1440.900" timestamp="1592138897038" />
-    <state width="948" height="373" key="GridCell.Tab.1.left/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539564" />
-    <state width="709" height="302" key="GridCell.Tab.1.left/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1592812361634" />
-    <state width="1419" height="340" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597924576521" />
-    <state width="1419" height="299" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1596424513476" />
-    <state width="1419" height="300" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1596211631724" />
-    <state width="1419" height="266" key="GridCell.Tab.1.left/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238368" />
-    <state width="1085" height="301" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1593516492990" />
-    <state width="948" height="373" key="GridCell.Tab.1.left/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097591" />
-    <state width="1419" height="340" key="GridCell.Tab.1.right" timestamp="1597924576521">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1592121531553" />
-    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-1920.23.1920.1057@0.0.1440.900" timestamp="1592138897039" />
-    <state width="948" height="373" key="GridCell.Tab.1.right/0.0.1440.900/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593066539566" />
-    <state width="709" height="302" key="GridCell.Tab.1.right/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1592812361635" />
-    <state width="1419" height="340" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597924576521" />
-    <state width="1419" height="299" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1596424513477" />
-    <state width="1419" height="300" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1596211631725" />
-    <state width="1419" height="266" key="GridCell.Tab.1.right/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592409238368" />
-    <state width="1085" height="301" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1593516492991" />
-    <state width="948" height="373" key="GridCell.Tab.1.right/0.23.1440.877/-256.-1080.1920.1080@-256.-1080.1920.1080" timestamp="1593073097592" />
-    <state x="229" y="76" key="SettingsEditor" timestamp="1596684332372">
-      <screen x="0" y="23" width="1440" height="828" />
-    </state>
-    <state x="229" y="76" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1596684332372" />
-    <state x="399" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1598582642338">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1592111325714" />
-    <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593060539546" />
-    <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-2560.0.2560.1440@0.0.1440.900" timestamp="1597402977715" />
-    <state x="399" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1598532268653" />
-    <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1598582642338" />
-    <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1596681308324" />
-    <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1596199112651" />
-    <state x="398" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.830/-1920.23.1920.1057@0.23.1440.830" timestamp="1593846284234" />
-    <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.830/-256.-1057.1920.1057@0.23.1440.830" timestamp="1592797937137" />
-    <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1593589315004" />
-    <state x="312" y="37" width="816" height="825" key="find.popup" timestamp="1593500442565">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="312" y="37" width="816" height="825" key="find.popup/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1592121788961" />
-    <state x="312" y="37" width="816" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593500442565" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597751329121">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-256.-1080.1920.1080@0.0.1440.900" timestamp="1593005246880" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597751329121" />
+    <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1606807363580" />
+    <state x="0" y="99" key="com.intellij.ide.util.TipDialog/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1607392011399" />
+    <state x="0" y="25" width="1440" height="818" key="com.intellij.ide.util.TipDialog/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614778472416" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -26,8 +26,8 @@ def combination(array, length, index):
         result.append(copy.deepcopy(string))
         return
     for i in range(index, len(array)):
-        if i in visited:
-            continue
+        # if i in visited:
+        #     continue
         string.append(array[i])
         visited.append(i)
         combination(array, length, i + 1)
