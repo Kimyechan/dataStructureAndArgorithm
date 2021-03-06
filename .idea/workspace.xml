@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/sort/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/sort/quicksort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concept/sort/mergesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/sort/mergesort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
       <recent name="$PROJECT_DIR$/algorithmPractice/최대공약수" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quicksort">
+  <component name="RunManager" selected="Python.mergesort">
     <configuration name="암호 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,27 +200,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/파일 합치기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="저울" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithmPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithmPractice/저울.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -566,6 +544,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mergesort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concept/sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concept/sort/mergesort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -609,19 +608,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.저울" />
       <item itemvalue="Python.bubblesort" />
       <item itemvalue="Python.selectionsort" />
       <item itemvalue="Python.insertionsort" />
       <item itemvalue="Python.quicksort" />
+      <item itemvalue="Python.mergesort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mergesort" />
         <item itemvalue="Python.quicksort" />
         <item itemvalue="Python.insertionsort" />
         <item itemvalue="Python.selectionsort" />
         <item itemvalue="Python.bubblesort" />
-        <item itemvalue="Python.저울" />
       </list>
     </recent_temporary>
   </component>
@@ -651,25 +650,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="261" key="GridCell.Tab.0.bottom" timestamp="1615038220056">
+    <state width="1419" height="261" key="GridCell.Tab.0.bottom" timestamp="1615042387229">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="261" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615038220056" />
+    <state width="1419" height="261" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615042387229" />
     <state width="1419" height="223" key="GridCell.Tab.0.bottom/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614788517371" />
-    <state width="1419" height="261" key="GridCell.Tab.0.center" timestamp="1615038220054">
+    <state width="1419" height="261" key="GridCell.Tab.0.center" timestamp="1615042387227">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="261" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615038220054" />
+    <state width="1419" height="261" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615042387227" />
     <state width="1419" height="223" key="GridCell.Tab.0.center/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614788517370" />
-    <state width="1419" height="261" key="GridCell.Tab.0.left" timestamp="1615038220053">
+    <state width="1419" height="261" key="GridCell.Tab.0.left" timestamp="1615042387226">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="261" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615038220053" />
+    <state width="1419" height="261" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615042387226" />
     <state width="1419" height="223" key="GridCell.Tab.0.left/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614788517369" />
-    <state width="1419" height="261" key="GridCell.Tab.0.right" timestamp="1615038220055">
+    <state width="1419" height="261" key="GridCell.Tab.0.right" timestamp="1615042387228">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="261" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615038220055" />
+    <state width="1419" height="261" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615042387228" />
     <state width="1419" height="223" key="GridCell.Tab.0.right/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614788517371" />
     <state x="229" y="69" key="SettingsEditor" timestamp="1614779220195">
       <screen x="0" y="25" width="1440" height="818" />
