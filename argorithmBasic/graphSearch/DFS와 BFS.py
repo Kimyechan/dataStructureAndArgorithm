@@ -37,3 +37,21 @@ dfs(v)
 print()
 visited = [False] * (n+1)
 bfs(v)
+
+
+def bfs2(s):
+    q = deque([s])
+    visited[s] = True
+
+    while q:
+        v = q.popleft()
+        print(v, end=' ')
+        for a in adj[v]:
+            if not visited[a]:
+                visited[a] = True
+                q.append(a)
+
+
+visited = [False] * (n + 1)
+print()
+bfs2(v)
