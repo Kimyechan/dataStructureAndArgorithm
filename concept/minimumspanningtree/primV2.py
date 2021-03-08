@@ -1,4 +1,25 @@
+# from heapdict import heapdict
+#
+#
+# def prim(graph, start):
+#     mst, keys, pi, total_weight = list(), heapdict(), dict(), 0
+#     for node in graph.keys():
+#         keys[node] = float('inf')
+#         pi[node] = None
+#     keys[start], pi[start] = 0, start
+#
+#     while keys:
+#         current_node, current_key = keys.popitem()
+#         mst.append([pi[current_node], current_node, current_key])
+#         total_weight += current_key
+#         for adjacent, weight in mygraph[current_node].items():
+#             if adjacent in keys and weight < keys[adjacent]:
+#                 keys[adjacent] = weight
+#                 pi[adjacent] = current_node
+#     return mst, total_weight
+
 from heapdict import heapdict
+
 
 def prim(graph, start):
     mst, keys, pi, total_weight = list(), heapdict(), dict(), 0
@@ -11,12 +32,12 @@ def prim(graph, start):
         current_node, current_key = keys.popitem()
         mst.append([pi[current_node], current_node, current_key])
         total_weight += current_key
-        for adjacent, weight in mygraph[current_node].items():
+        for adjacent, weight in graph[current_node].items():
             if adjacent in keys and weight < keys[adjacent]:
                 keys[adjacent] = weight
                 pi[adjacent] = current_node
-    return mst, total_weight
 
+    return mst, total_weight
 
 mygraph = {
     'A': {'B': 7, 'D': 5},

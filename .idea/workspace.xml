@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cfe1cc75-d67b-47a5-975f-20e78c07a75b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/minimumspanningtree/kruskal.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/minimumspanningtree/kruskal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concept/minimumspanningtree/prim.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/minimumspanningtree/prim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concept/minimumspanningtree/primV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/concept/minimumspanningtree/primV2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
       <recent name="$PROJECT_DIR$/algorithmPractice/최대공약수" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.kruskal">
+  <component name="RunManager" selected="Python.primV2">
     <configuration name="주사위 세개" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -419,27 +420,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concept/search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concept/search/dfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -482,27 +462,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fractionalKnapsack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dataStructureArgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concept/greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concept/greedy/fractionalKnapsack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructureArgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -524,20 +483,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concept/minimumspanningtree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concept/minimumspanningtree/prim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="primV2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructureArgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concept/minimumspanningtree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concept/minimumspanningtree/primV2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.dfs" />
-      <item itemvalue="Python.fractionalKnapsack" />
       <item itemvalue="Python.dijkstra" />
       <item itemvalue="Python.dijkstrapath" />
       <item itemvalue="Python.kruskal" />
+      <item itemvalue="Python.prim" />
+      <item itemvalue="Python.primV2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.primV2" />
+        <item itemvalue="Python.prim" />
         <item itemvalue="Python.kruskal" />
         <item itemvalue="Python.dijkstrapath" />
         <item itemvalue="Python.dijkstra" />
-        <item itemvalue="Python.fractionalKnapsack" />
-        <item itemvalue="Python.dfs" />
       </list>
     </recent_temporary>
   </component>
@@ -567,46 +568,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="261" key="GridCell.Tab.0.bottom" timestamp="1615187927436">
+    <state width="1419" height="340" key="GridCell.Tab.0.bottom" timestamp="1615201189877">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="261" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615187927436" />
+    <state width="1419" height="340" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615201189877" />
     <state width="1419" height="261" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1615050321775" />
     <state width="1419" height="223" key="GridCell.Tab.0.bottom/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614788517371" />
-    <state width="1419" height="261" key="GridCell.Tab.0.center" timestamp="1615187927432">
+    <state width="1419" height="340" key="GridCell.Tab.0.center" timestamp="1615201189875">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="261" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615187927432" />
+    <state width="1419" height="340" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615201189875" />
     <state width="1419" height="261" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1615050321773" />
     <state width="1419" height="223" key="GridCell.Tab.0.center/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614788517370" />
-    <state width="1419" height="261" key="GridCell.Tab.0.left" timestamp="1615187927429">
+    <state width="1419" height="340" key="GridCell.Tab.0.left" timestamp="1615201189874">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="261" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615187927429" />
+    <state width="1419" height="340" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615201189874" />
     <state width="1419" height="261" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1615050321772" />
     <state width="1419" height="223" key="GridCell.Tab.0.left/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614788517369" />
-    <state width="1419" height="261" key="GridCell.Tab.0.right" timestamp="1615187927435">
+    <state width="1419" height="340" key="GridCell.Tab.0.right" timestamp="1615201189876">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="261" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615187927435" />
+    <state width="1419" height="340" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615201189876" />
     <state width="1419" height="261" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1615050321774" />
     <state width="1419" height="223" key="GridCell.Tab.0.right/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1614788517371" />
-    <state width="1419" height="340" key="GridCell.Tab.1.bottom" timestamp="1615138301252">
+    <state width="1419" height="340" key="GridCell.Tab.1.bottom" timestamp="1615201190382">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="340" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615138301252" />
-    <state width="1419" height="340" key="GridCell.Tab.1.center" timestamp="1615138301251">
+    <state width="1419" height="340" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615201190382" />
+    <state width="1419" height="340" key="GridCell.Tab.1.center" timestamp="1615201190377">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="340" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615138301251" />
-    <state width="1419" height="340" key="GridCell.Tab.1.left" timestamp="1615138301251">
+    <state width="1419" height="340" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615201190377" />
+    <state width="1419" height="340" key="GridCell.Tab.1.left" timestamp="1615201190376">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="340" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615138301251" />
-    <state width="1419" height="340" key="GridCell.Tab.1.right" timestamp="1615138301252">
+    <state width="1419" height="340" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615201190376" />
+    <state width="1419" height="340" key="GridCell.Tab.1.right" timestamp="1615201190378">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="340" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615138301252" />
+    <state width="1419" height="340" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1615201190378" />
     <state x="229" y="69" key="SettingsEditor" timestamp="1614779220195">
       <screen x="0" y="25" width="1440" height="818" />
     </state>
@@ -675,6 +676,11 @@
           <url>file://$PROJECT_DIR$/algorithmPractice/가장 큰 증가 부분수열.py</url>
           <line>9</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/concept/minimumspanningtree/primV2.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
