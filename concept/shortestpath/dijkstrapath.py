@@ -20,14 +20,45 @@ def dijkstra(graph, start, end):
                 distances[adjacent] = [distance, current_vertex]
                 heapq.heappush(queue, [distance, adjacent])
 
-        path = end
-        path_output = end + '->'
-        while distances[path][1] != start:
-            path_output += distances[path][1] + '->'
-            path = distances[path][1]
+    path = end
+    path_output = end + '->'
+    while distances[path][1] != start:
+        path_output += distances[path][1] + '->'
+        path = distances[path][1]
 
-        path_output += start
+    path_output += start
 
+    print(path_output)
+
+    return distances
+
+
+def dijkstra2(graph, start, end):
+    distances = {vertex: [float('inf'), start] for vertex in graph}
+    distances[start] = [0, start]
+    queue = []
+    heapq.heappush(queue, [distances[start][0], start])
+
+    while queue:
+        current_dis, current_node = heapq.heappop(queue)
+
+        if distances[current_node][0] < current_dis:
+            continue
+
+        for adj, weight in graph[current_node].items():
+            distance = current_dis + weight
+
+            if distance < distances[adj][0]:
+                distances[adj] = [distance, current_node]
+                heapq.heappush(queue, [distance, adj])
+
+    path = end
+    path_output = path + "->"
+    while distances[path][1] != start:
+        path_output += distances[path][1] + "->"
+        path = distances[path][1]
+
+    path_output += start
     print(path_output)
 
     return distances
@@ -43,3 +74,4 @@ mygraph = {
 }
 
 print(dijkstra(mygraph, 'A', 'F'))
+print(dijkstra2(mygraph, 'A', 'F'))
